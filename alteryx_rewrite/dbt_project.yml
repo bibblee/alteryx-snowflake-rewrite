@@ -1,0 +1,4 @@
+name: 'my_project'  
+version: '1.0'
+
+profile: 'alteryx_rewrite'  
